@@ -1,28 +1,29 @@
 目录
-<a href="#0">计算机相关畅销书</a>  
-<a href="#1">数据结构与算法相关书籍</a>  
-<a href="#2">机器学习相关书籍</a>  
-&emsp;<a href="#3">特征工程相关书籍</a>  
-&emsp;<a href="#4">推荐系统相关书籍</a>  
-&emsp;<a href="#5">数据挖掘相关书籍</a>  
-&emsp;<a href="#6">深度学习相关书籍</a>  
-&emsp;<a href="#7">自然语言处理</a>  
-<a href="#8">Python相关书籍</a>  
-&emsp;<a href="#9">Python基础</a>  
-&emsp;<a href="#10">Python数据分析 - Numpy、Pandas、Matplotlib</a>  
-&emsp;<a href="#11">Python网络爬虫 - Scrapy</a>  
-&emsp;<a href="#12">Python + AI</a>  
-<a href="#13">数学相关书籍</a>  
-<a href="#14">Java相关书籍</a>  
-&emsp;<a href="#15">Java基础</a>  
-<a href="#16">C/C++相关书籍</a>  
-<a href="#17">Linux相关书籍</a>  
-<a href="#18">数据库相关书籍</a>  
-<a href="#19">Android相关书籍</a>  
-<a href="#20">计算机网络相关书籍</a>  
-<a href="#21">大数据技术相关书籍</a>  
-<a href="#22">R语言相关书籍</a>  
-<a href="#23">其他</a>  
+
+- [计算机相关畅销书](#计算机相关畅销书)
+- [数据结构与算法相关书籍](#数据结构与算法相关书籍)
+- [机器学习相关书籍](#机器学习相关书籍)
+  * [特征工程相关书籍](##特征工程相关书籍)
+  * [推荐系统相关书籍](##推荐系统相关书籍)
+  * [数据挖掘相关书籍](##数据挖掘相关书籍)
+  * [深度学习相关书籍](##深度学习相关书籍)
+  * [自然语言处理](#自然语言处理)
+- [Python相关书籍](#Python相关书籍)
+  * [Python基础](#python--)
+  * [Python数据分析 - Numpy、Pandas、Matplotlib](#python-------numpy-pandas-matplotlib)
+  * [Python网络爬虫 - Scrapy](#python-------scrapy)
+  * [Python + AI](#python---ai)
+- [数学相关书籍](#------)
+- [Java相关书籍](#java----)
+  * [Java基础](#java--)
+- [C/C++相关书籍](#c-c------)
+- [Linux相关书籍](#linux----)
+- [数据库相关书籍](#-------)
+- [Android相关书籍](#android----)
+- [计算机网络相关书籍](#---------)
+- [大数据技术相关书籍](#---------)
+- [R语言相关书籍](#r------)
+- [其他](#--)
 
 为了方便广大能下载到自己心仪的电子书，本人花费了洪荒之力从各大网站收集了几百本常用的电子书免费供大家下载。由于知乎，微信公众号，CSDN等平台不能通过含有下载链接的文章，因此只能在GitHub上分享。
 
