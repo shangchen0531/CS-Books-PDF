@@ -1,6 +1,6 @@
-- [计算机相关畅销书](#--------)
-- [数据结构与算法相关书籍](#-----------)
-- [机器学习相关书籍](#--------)
+- [计算机相关畅销书](#计算机相关畅销书)
+- [数据结构与算法相关书籍](#数据结构与算法相关书籍)
+- [机器学习相关书籍](#机器学习相关书籍)
   * [特征工程相关书籍](#--------)
   * [推荐系统相关书籍](#--------)
   * [数据挖掘相关书籍](#--------)
@@ -38,13 +38,13 @@ Tricks:
 > 关注公众号，回复“解压密码”获取解压密码  
 > 说明部分是“文字版”的是可复制文字的高清pdf版本，阅读效果更佳
 
-## 计算机相关畅销书
+# 计算机相关畅销书
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 数学之美 |吴军 |Google 科学家吴军的畅销书 |<img src="https://note.youdao.com/yws/api/personal/file/WEB4471b4d33b2653c6ca678fc97635a1f9?method=download&shareKey=732f94c5fce266ba81791dcbc9d937fe" height="100"/>|[网盘链接](https://pan.baidu.com/s/13TCcGToashcu2nHYSL-jJg) | 提取码:5ki1 | 文字版
 浪潮之巅|吴军 |Google 科学家吴军的畅销书 |<img src="https://note.youdao.com/yws/api/personal/file/WEBedaf29d429683297cf6c4476bf8e047b?method=download&shareKey=ffc4e5165c9bbd1dcc53064172049872" height="100"/>|[网盘链接](https://pan.baidu.com/s/1VP9oM8qe-_bB3AaaVsx5kw) | 提取码: c94z| 扫描版，带目录
 
-## 数据结构与算法相关书籍
+# 数据结构与算法相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 算法导论 |托马斯等人 |计算机中数据结构与算法的标准参考手册 |<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1013556660,3545671881&fm=26&gp=0.jpg" height="100"/>|[网盘链接](https://pan.baidu.com/s/1wZdKNYDq5gbfYSonn0MwzA) | 提取码:x1us | 扫描版
