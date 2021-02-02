@@ -1,27 +1,29 @@
-- [计算机相关畅销书](#计算机相关畅销书)
-- [数据结构与算法相关书籍](#数据结构与算法相关书籍)
-- [机器学习相关书籍](#机器学习相关书籍)
-  * [特征工程相关书籍](#--------)
-  * [推荐系统相关书籍](#--------)
-  * [数据挖掘相关书籍](#--------)
-  * [深度学习相关书籍](#--------)
-  * [自然语言处理](#------)
-- [Python相关书籍](#python----)
-  * [Python基础](#python--)
-  * [Python数据分析 - Numpy、Pandas、Matplotlib](#python-------numpy-pandas-matplotlib)
-  * [Python网络爬虫 - Scrapy](#python-------scrapy)
-  * [Python + AI](#python---ai)
-- [数学相关书籍](#------)
-- [Java相关书籍](#java----)
-  * [Java基础](#java--)
-- [C/C++相关书籍](#c-c------)
-- [Linux相关书籍](#linux----)
-- [数据库相关书籍](#-------)
-- [Android相关书籍](#android----)
-- [计算机网络相关书籍](#---------)
-- [大数据技术相关书籍](#---------)
-- [R语言相关书籍](#r------)
-- [其他](#--)
+目录
+<a name="index">**Index**</a>
+<a href="#0">计算机相关畅销书</a>  
+<a href="#1">数据结构与算法相关书籍</a>  
+<a href="#2">机器学习相关书籍</a>  
+&emsp;<a href="#3">特征工程相关书籍</a>  
+&emsp;<a href="#4">推荐系统相关书籍</a>  
+&emsp;<a href="#5">数据挖掘相关书籍</a>  
+&emsp;<a href="#6">深度学习相关书籍</a>  
+&emsp;<a href="#7">自然语言处理</a>  
+<a href="#8">Python相关书籍</a>  
+&emsp;<a href="#9">Python基础</a>  
+&emsp;<a href="#10">Python数据分析 - Numpy、Pandas、Matplotlib</a>  
+&emsp;<a href="#11">Python网络爬虫 - Scrapy</a>  
+&emsp;<a href="#12">Python + AI</a>  
+<a href="#13">数学相关书籍</a>  
+<a href="#14">Java相关书籍</a>  
+&emsp;<a href="#15">Java基础</a>  
+<a href="#16">C/C++相关书籍</a>  
+<a href="#17">Linux相关书籍</a>  
+<a href="#18">数据库相关书籍</a>  
+<a href="#19">Android相关书籍</a>  
+<a href="#20">计算机网络相关书籍</a>  
+<a href="#21">大数据技术相关书籍</a>  
+<a href="#22">R语言相关书籍</a>  
+<a href="#23">其他</a>  
 
 为了方便广大能下载到自己心仪的电子书，本人花费了洪荒之力从各大网站收集了几百本常用的电子书免费供大家下载。由于知乎，微信公众号，CSDN等平台不能通过含有下载链接的文章，因此只能在GitHub上分享。
 
@@ -67,7 +69,7 @@ ACM大学生程序设计竞赛在线题库精选题解 |赵端阳等人| 算法�
 ACM国际大学生程序设计竞赛 三部  |俞勇| 第一本:知识与入门；第二本：算法与代码；第三本：题目与解读 |<img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3569596528,3987577948&fm=15&gp=0.jpg" height="100"/>|[网盘链接](https://pan.baidu.com/s/1dO4IOupqedyWNMlOekuWGQ) | 提取码:0fms  | 扫描版，带目录
 
 
-## 机器学习相关书籍
+# 机器学习相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 机器学习 |Mitcheel（ICML会议创始人） |教材、参考书|<img src="https://note.youdao.com/yws/api/personal/file/WEBdd5e910b3cc8444056913840cd8dac16?method=download&shareKey=25cdccdf98b71911ed0a2575486fcdf4" height="100"/>|[网盘链接](https://pan.baidu.com/s/1JLf7HXE6CIWtXc4FjOiV3Q) | 提取码:rbq2 | 文字版
@@ -88,18 +90,18 @@ Python机器学习经典实例 |[美] Prateek Joshi|适合Python初学者 |<img 
 机器学习算法原理与编程实践|郑捷|适合初学者的编程实践|<img src="https://dss0.bdstatic.com/6Ox1bjeh1BF3odCf/it/u=685465873,1805710371&fm=179&app=42&f=JPEG?w=121&h=161&s=25540B620760855D16C921100100C092" height="100"/>|[网盘链接](https://pan.baidu.com/s/1IrgLN6rxKs2Dy2zcG_75lw) | 提取码:73mg | 文字版
 机器学习系统设计|里彻特 (Willi Richert) |理论+实践|<img src="https://note.youdao.com/yws/api/personal/file/WEB8eda382da92e77c84bcfda29ef085c7d?method=download&shareKey=f0a07404bb34742aee151ed658ef368e" height="100"/>|[网盘链接](https://pan.baidu.com/s/1Kv6YUOY6Egr-nZj_E-iKZg) | 提取码:o8cs | 扫描版
 
-### 特征工程相关书籍
+## 特征工程相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 精通特征工程| [美]  爱丽丝 | 数据降维、特征生成、特征缩放 |<img src="https://note.youdao.com/yws/api/personal/file/WEB3cc46457af555f4422456d79a4af06be?method=download&shareKey=be9709cba83539612654ae388e285a79" height="100"/>|[网盘链接](https://pan.baidu.com/s/1HXiy-pcPVjomanBZ3pYfPw) | 提取码:styq | 文字版
 
-### 推荐系统相关书籍
+## 推荐系统相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 推荐系统实践| [美] Gary.Wrigh | 高清晰中文书签版 |<img src="https://note.youdao.com/yws/api/personal/file/WEBd85e09d36156dfc56a4ec950a2c7294b?method=download&shareKey=0194d825d9a3cd51a379eb451b29b058" height="100"/>|[网盘链接](https://pan.baidu.com/s/1PYcPzDtNYZrKU6PDdZJVPA) | 提取码:2nh4 | 文字版
 
 
-### 数据挖掘相关书籍
+## 数据挖掘相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 Python数据挖掘入门与实践  |[澳] Robert Layton |scikit-learn|<img src="https://note.youdao.com/yws/api/personal/file/WEB2593ffeabda6f3a2898b725dc414bfb3?method=download&shareKey=e5f7b4d0f89d34cb36e45805a8f1513e" height="100"/>|[网盘链接](https://pan.baidu.com/s/1UZuZlLrzDfX_SLBuF8GHEQ) | 提取码:nj17 | 文字版
@@ -110,7 +112,7 @@ Web数据挖掘 |未知|scikit-learn|<img src="https://note.youdao.com/yws/api/p
 大数据 互联网大规模数据挖掘与分布式处理 |[美]Anand Rajaraman |分布式文件系统、相似性搜索、搜索引擎技术、频繁项集挖掘、聚类算法、广告管理及推荐系统|<img src="https://note.youdao.com/yws/api/personal/file/WEB42ce316ecff45f2b7a3d31d6c4a5b98b?method=download&shareKey=2a4acbdd61016862e46e3a6558ba55ed" height="100"/>|[网盘链接](https://pan.baidu.com/s/1GsuS-ip3F2lEjuHrXXGN6w) | 提取码:7c7z | 扫描版，带目录
 统计学习基础 数据挖掘、推理与预测|[美]黑斯蒂 |国外数据挖掘教材|<img src="https://note.youdao.com/yws/api/personal/file/WEB49912637ba6cac6b65c8ca0748733203?method=download&shareKey=528f9519b6d3e1cb843b2b6bfd9055c7" height="100"/>|[网盘链接](https://pan.baidu.com/s/111czB3b3n2VID4MJ88k1lQ) | 提取码:5smn | 扫描版
 
-### 深度学习相关书籍
+## 深度学习相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 深度学习 | IanGoodfellow（伊恩·古德费洛） |号称深度学习“圣经”的书籍|<img src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2199659750,740396073&fm=26&gp=0.jpg" height="100"/>|[网盘链接](https://pan.baidu.com/s/1iiAppxOUpbK1GjCblW86Lg) | 提取码:asfn | 文字版
@@ -131,7 +133,7 @@ Python神经网络编程 |[英] 塔里克•拉希德|入门神经网络的编�
 21个项目玩转深度学习 | 何之源|基于Tensorflow的实践详解|<img src="https://note.youdao.com/yws/api/personal/file/WEB7bf8e407a5ce787a957f6cb5b03c02ef?method=download&shareKey=107f910b84c369017f799b1ddfc16cc4" height="100"/>|[网盘链接](https://pan.baidu.com/s/1_k0VdD3k03lqZ2vCjru2Iw) | 提取码:sgle | 扫描版，带目录
 
 
-### 自然语言处理
+## 自然语言处理
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 精通Python自然语言处理 | [印度] Deepti Chopra | Python 实现各种 NLP任务|<img src="https://note.youdao.com/yws/api/personal/file/WEBf0330889db2b11194585746a0646294a?method=download&shareKey=d9e7594864b3cde66b3588b22c07db07" height="100"/>|[网盘链接](https://pan.baidu.com/s/1OB8uBFgU1yvOuQpLunFoOg) | 提取码:1i4t | 文字版
@@ -140,8 +142,8 @@ NLP汉语自然语言处理原理与实践| 郑捷 |NLP实践|<img src="https://
 LDA 数学八卦 | 靳志辉 | LDA原理解析 |<img src="https://note.youdao.com/yws/api/personal/file/WEBf6f4755b055fd756d49e0d80d4abe139?method=download&shareKey=d0913e72770cb1f8d894f01b6a085145" height="100"/>|[网盘链接](https://pan.baidu.com/s/13fS5SsW2VkDURY6KJrka2w) | 提取码:ad1k | 文字版
 
 
-## Python相关书籍
-### Python基础
+# Python相关书籍
+## Python基础
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 流畅的Python | [巴西] Luciano Ramalho |介绍较高级的python用法|<img src="https://note.youdao.com/yws/api/personal/file/WEB1aae3ffe76bccf2350bd894b0e68d823?method=download&shareKey=5ae88d2a0ecfddd53fd6cab36ea67839" height="100"/>|[网盘链接](https://pan.baidu.com/s/1qhx-1NZ9gQl-VxdTAV0suQ) | 提取码:28cn | 文字版
@@ -153,7 +155,7 @@ Python编程入门  第3版 | [美]  Toby Donaldson | 图文并茂的Python学�
 Python开发实战 | [美]尼纳德·萨斯叶 | Python Web开发实战 |<img src="https://note.youdao.com/yws/api/personal/file/WEBb5249c7cc971c80d8b6d216b62bd0d37?method=download&shareKey=7710a6b4b1a88ea61f9564931655826e" height="100"/>|[网盘链接](https://pan.baidu.com/s/10wwAEWBTGeE8dHAg4XOQ8A) | 提取码:90pr | 扫描版
 Python基础教程（第2版） | [挪威] 赫特兰 | 适合Python初学者|<img src="https://note.youdao.com/yws/api/personal/file/WEBcbb21588d61c2e4cbc23bf459509c5b1?method=download&shareKey=8bd7b7af112b0ca234004c7902206f67" height="100"/>|[网盘链接](https://pan.baidu.com/s/1OlXaVLQI2BrSe5_oBzgUDA) | 提取码:xmh0 | 扫描版
 
-### Python数据分析 - Numpy、Pandas、Matplotlib
+## Python数据分析 - Numpy、Pandas、Matplotlib
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 鲜活的数据-数据可视化指南 | [美] Nathan Yau  |数据处理、数据可视化|<img src="https://note.youdao.com/yws/api/personal/file/WEB03ee978f8c5f7a020309cbde679d5d98?method=download&shareKey=cb737b315ab6f90f9c3ee441abdc36df" height="100"/>|[网盘链接](https://pan.baidu.com/s/1MiBNLnMw7--LTNqR0At0HA) | 提取码:cl0u | 文字版
@@ -168,14 +170,14 @@ Python金融大数据分析 | [德]伊夫·希尔皮斯科 | Python在金融学�
 Python数据分析与挖掘实战 + 代码 | 张良均等人 | 数据挖掘 + Python |<img src="https://note.youdao.com/yws/api/personal/file/WEB8977b6ae12cf59b9d662b5c3c11b7e9c?method=download&shareKey=b817dff3181ca67a230596473bf4855f" height="100"/>|[网盘链接](https://pan.baidu.com/s/1--1feIhnk2dz-iJoyimbJw) | 提取码:kim9 | 扫描版
 Python数据分析基础教程 （第2版）| [印尼] Ivan Idris | Numpy学习指南 |<img src="https://note.youdao.com/yws/api/personal/file/WEB86246e875f4e34da50ccda01b19776d6?method=download&shareKey=6024c1e33d55f664e147ed34a1edf73b" height="100"/>|[网盘链接](https://pan.baidu.com/s/1YvYwU_Bzt68XbailqC7leQ) | 提取码:5u4q | 文字版
 
-### Python网络爬虫 - Scrapy
+## Python网络爬虫 - Scrapy
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 Python网络数据采集 |[美] Ryan Mitchell |网络爬虫、数据处理|<img src="https://note.youdao.com/yws/api/personal/file/WEB5cad29e4e819ecd33508d575b1fcbfab?method=download&shareKey=d59a07587590e5df3fee806e2ccd4c0d" height="100"/>|[网盘链接](https://pan.baidu.com/s/1YgJP-QovGMJ7553kR6kq8g) | 提取码:uysz | 文字版
 用Python写网络爬虫 |[澳]理查德 劳森（Richard Lawson）|网络爬虫、scrapy库|<img src="https://note.youdao.com/yws/api/personal/file/WEB6f301c0465509f62944d07e1f79b4e69?method=download&shareKey=6088eb06fbb3aea9c8e13f35f2f23aa3" height="100"/>|[网盘链接](https://pan.baidu.com/s/14OtbpsQgd-W1cU0H0IqT1Q) | 提取码:7cm0 | 文字版
 精通Scrapy网络爬虫 | 刘硕 | 重点介绍Scrapy |<img src="https://note.youdao.com/yws/api/personal/file/WEB071ff83d132586ec304341737a088fd7?method=download&shareKey=b72b54663143e98b9766446a8359ce19" height="100"/>|[网盘链接](https://pan.baidu.com/s/1rimmcaDAk0xzEKYVkev4lQ) | 提取码:jrus | 扫描版，带目录
 
-### Python + AI
+## Python + AI
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 精通Python自然语言处理 | [印度] Deepti Chopra | Python 实现各种 NLP任务|<img src="https://note.youdao.com/yws/api/personal/file/WEBf0330889db2b11194585746a0646294a?method=download&shareKey=d9e7594864b3cde66b3588b22c07db07" height="100"/>|[网盘链接](https://pan.baidu.com/s/1OB8uBFgU1yvOuQpLunFoOg) | 提取码:1i4t | 文字版
@@ -189,7 +191,7 @@ Python神经网络编程 |[英] 塔里克•拉希德|入门神经网络的编�
 常用数据挖掘算法总结及 Python 实现  |未知|数据挖掘的算法原理级实践|<img src="https://note.youdao.com/yws/api/personal/file/WEBf2f4e9d9f11710d5a861f40eefe86fa5?method=download&shareKey=411f612f41a1b8092adddccad1e7b4db" height="100"/>|[网盘链接](https://pan.baidu.com/s/1oVQLgW8dF689rFPfh78A2A) | 提取码:zsr4 | 文字版
 Python数据挖掘入门与实践  |[澳] Robert Layton |scikit-learn|<img src="https://note.youdao.com/yws/api/personal/file/WEB2593ffeabda6f3a2898b725dc414bfb3?method=download&shareKey=e5f7b4d0f89d34cb36e45805a8f1513e" height="100"/>|[网盘链接](https://pan.baidu.com/s/1UZuZlLrzDfX_SLBuF8GHEQ) | 提取码:nj17 | 文字版
 
-## 数学相关书籍
+# 数学相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 矩阵论（第二版）| 杨明　刘先忠  | 线性变换、矩阵分解 |<img src="https://note.youdao.com/yws/api/personal/file/WEB2d2d677cdc553804994011628cbff2ad?method=download&shareKey=91b05ffb450ebea45114e43f8d78d08c" height="100"/>|[网盘链接](https://pan.baidu.com/s/14rAnRPnPzmRjpa8LxnnoYg) | 提取码:kxez | 文字版
@@ -200,8 +202,8 @@ Python数据挖掘入门与实践  |[澳] Robert Layton |scikit-learn|<img src="
 组合数学 | 曹汝成 | 排列组合、容斥原理、鸽笼原理 |<img src="https://note.youdao.com/yws/api/personal/file/WEBd23245047799777fe55b2dde1cf1535a?method=download&shareKey=e99c8b4796e7e7cb175e879aef4abd13" height="100"/>|[网盘链接](https://pan.baidu.com/s/1AZt9wPKkyGTRYc0clLkOvw) | 提取码:8faw| 扫描版，带目录
 组合数学（原书第5版）| [美] Brualdi | 排列组合、容斥原理、鸽笼原理 |<img src="https://note.youdao.com/yws/api/personal/file/WEBf72108fe3cbfdb37570dbd5023807e90?method=download&shareKey=61c1bcfeddadcacfdc8e6abf2301e0fc" height="100"/>|[网盘链接](https://pan.baidu.com/s/1T_QFFIxG1OO3viQIJ6h00A) | 提取码:ueca | 扫描版
 
-## Java相关书籍
-### Java基础
+# Java相关书籍
+## Java基础
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 Java编程思想第4版 | [美] Bruce Eckel | Java编程教材 |<img src="https://note.youdao.com/yws/api/personal/file/WEBd450c28f2f8b5fc7dd2107ad703368b9?method=download&shareKey=405e40a10d2b2b8859ea1fedaa39619a" height="100"/>|[网盘链接](https://pan.baidu.com/s/1qmQiPXpA9-4byb1m1uTiVA) | 提取码:nhgl | 文字版
@@ -210,7 +212,7 @@ Java编程思想第4版 | [美] Bruce Eckel | Java编程教材 |<img src="https:
 JAVA并发编程实践|[美] Brian Goetz | 并发、线程、锁|<img src="https://note.youdao.com/yws/api/personal/file/WEB1184246eb400fd9d071111d15daa9dfa?method=download&shareKey=7ae1c08c6e69d237d3df79891749716e" height="100"/>|[网盘链接](https://pan.baidu.com/s/18tvoOHW-CPzWfbYxg51woA) | 提取码:vsrs | 扫描版，带目录
 Effective Java 第2版 中文+英文+源码 |[美] Joshua Bloch|Java编程中78条极具实用价值的经验规则|<img src="https://note.youdao.com/yws/api/personal/file/WEB30a2ad2411d8f2a4805f7e4340dea80c?method=download&shareKey=4e8900715e5b50281a6bfcca35ec4d65" height="100"/>|[网盘链接](https://pan.baidu.com/s/16JtAQwwB0kvHnmhUR-YYkg) | 提取码:xh1z | 扫描版，带目录
 
-## C/C++相关书籍
+# C/C++相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 C++ Primer 第6版 | [美] Stephen Prata | C++编程教材 |<img src="https://note.youdao.com/yws/api/personal/file/WEBb43b7dcb9e81d3110fb72be7e76c69ec?method=download&shareKey=eeb2ec6bb6f8995818879558b06c4dc3" height="100"/>|[网盘链接](https://pan.baidu.com/s/1WnI5H9luCZXBC6prhwp2hg) | 提取码:e7av | 文字版
@@ -223,7 +225,7 @@ C++ 并发编程 |[美]Anthony Williams |基于C++11新标准的并发和多线�
 深入理解C++11 |[加]Michael Wong |C++11新特性解析与应用|<img src="https://note.youdao.com/yws/api/personal/file/WEB23000070fc12f62c8756b3b43f06f5ed?method=download&shareKey=c1bd6d0904a4573158c2ebbc30dda8ee" height="100"/>|[网盘链接]() | 提取码: | 扫描版，带目录
 
 
-## Linux相关书籍
+# Linux相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 鸟哥的Linux私房菜 | 台湾的VBird（鸟哥） | 非常经典Linux书 |<img src="https://note.youdao.com/yws/api/personal/file/WEB11f272cbd67ddad56126024e629e7561?method=download&shareKey=0c324313b911ba9ec3877b70ecd30b3d" height="100"/>|[网盘链接](https://pan.baidu.com/s/12katJmRZyb2y90GVN6DVHg) | 提取码:3end | 文字版
@@ -232,28 +234,27 @@ C++ 并发编程 |[美]Anthony Williams |基于C++11新标准的并发和多线�
 精通Linux（第2版） | [美] Brian Ward | Linux基础教程 |<img src="https://note.youdao.com/yws/api/personal/file/WEB3e968c851f0e2ecc4c9f31a72fa5c789?method=download&shareKey=e898bf438a09b12a121bc67654b8e5af" height="100"/>|[网盘链接](https://pan.baidu.com/s/1Lm_xeIdvNivRhRSncoiiOg) | 提取码:88xc | 文字版
 Linux内核设计与实现 (第三版) | [美] Robert Love | Linux 内核教程 |<img src="https://note.youdao.com/yws/api/personal/file/WEBd25fa3d769bd4c0d5091001dd2337eab?method=download&shareKey=3584d30ab8e344a065808aa5fcfd24f1" height="100"/>|[网盘链接](https://pan.baidu.com/s/1Tu7JVZvzywtnGaVxgJ07zQ) | 提取码:rane | 扫描版，带目录
 
-
-## 数据库相关书籍
+# 数据库相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 MySQL必知必会 | [美] Ben Forta | 高清晰中文书签版 |<img src="https://note.youdao.com/yws/api/personal/file/WEBba549fb64428317f8d48a12257125054?method=download&shareKey=f99471bc5759b2884d26662706c17696" height="100"/>|[网盘链接](https://pan.baidu.com/s/1RnJBULDuu_1bMT62eD3nrw) | 提取码:v1z2 | 文字版
 SQL必知必会（第4版） | [美] Ben Forta | 高清晰中文书签版 |<img src="https://note.youdao.com/yws/api/personal/file/WEB451c8d270604320bc0b1489b764ba47c?method=download&shareKey=dec18f34300727e987b51ee2fe0195b3" height="100"/>|[网盘链接](https://pan.baidu.com/s/1cb6R-Xwj5uGe58qfmPSehg) | 提取码:j0ib | 文字版
 
 
-## Android相关书籍
+# Android相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 第一行代码 Android + 源代码 | 郭霖 | 被誉为“Android学习第一书” |<img src="https://note.youdao.com/yws/api/personal/file/WEB4e29df70a7138b3597fb59c9eed7b240?method=download&shareKey=1c4f0cdb79688766ccd4299b7209587f" height="100"/>|[网盘链接]() | 提取码: | 文字版
 
 
-## 计算机网络相关书籍
+# 计算机网络相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 TCP-IP详解(卷一、二、三)  | [美] Gary.Wrigh | 高清晰中文书签版 |<img src="https://note.youdao.com/yws/api/personal/file/WEB2003851218a9f689ee745017d4f81e41?method=download&shareKey=e7478ca2170740b25f5c2bab7a4911c7" height="100"/>|[网盘链接](https://pan.baidu.com/s/177qpS09WUuNGDymC8gLXUw) | 提取码:9w1p | 文字版
 图解HTTP | [日]上野 宣 | HTTP协议的电子图解教程 |<img src="https://note.youdao.com/yws/api/personal/file/WEB71ad8fbb073b181b745901d67e8e1c5c?method=download&shareKey=7c83aabbf6607a9beee74130d451db4b" height="100"/>|[网盘链接](https://pan.baidu.com/s/1n8AYJ_6tcdaCwKZwgxn7XQ) | 提取码:1qbl | 扫描版，带目录
 
 
-## 大数据技术相关书籍
+# 大数据技术相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 Spark机器学习 | [南非] Nick Pentreath | Spark、机器学习、推荐引擎 |<img src="https://note.youdao.com/yws/api/personal/file/WEBd9b264453373534a6d9f9c348f0ee170?method=download&shareKey=b6cf2cfbc4ed465cbec59e54002bd1c9" height="100"/>|[网盘链接](https://pan.baidu.com/s/1kexS131DZrawlVaIg6RMYg) | 提取码:i9v6 | 文字版
@@ -265,7 +266,7 @@ Hadoop权威指南 （第3版） | [美]Tom Wbite |Hadoop 教程 |<img src="http
 Hbase权威指南  | [美]Lars George |Hbase 教程 |<img src="https://note.youdao.com/yws/api/personal/file/WEB47c860072cea4c4b8260145961961c6e?method=download&shareKey=def68c20a1364254f8d034af4241a49a" height="100"/>|[网盘链接](https://pan.baidu.com/s/1rmoL3UDhHlifdT5qeoOvIA) | 提取码:m0yi | 扫描版，带目录
 Hive编程指南  | [美]Edward |Hive 教程 |<img src="https://note.youdao.com/yws/api/personal/file/WEB852383fa78f4229e146baaf208abaa43?method=download&shareKey=ad90d9b50597804cbb00904a7c73b300" height="100"/>|[网盘链接](https://pan.baidu.com/s/1hV-PV3qUVSd1VvqUecJ8wg) | 提取码:scbg | 扫描版
 
-## R语言相关书籍
+# R语言相关书籍
 书籍名称  |	作者|书籍介绍 |书籍封面 |网盘下载地址 |	提取码 | 说明
 ---|---|--- |--- |--- |--- |---
 R语言实战 | [美] Robert I. Kabacoff | 全面而细致的R语言指南 |<img src="https://note.youdao.com/yws/api/personal/file/WEB42f7782a7924cfbfaf37bcc277348af8?method=download&shareKey=f71e3c7e9b5f3d10ed7a3d8851bcd8a0" height="100"/>|[网盘链接](https://pan.baidu.com/s/1If1ELeUFMgfRS1pdWLDh4A) | 提取码:r33b | 文字版
@@ -276,7 +277,7 @@ R语言实战 | [美] Robert I. Kabacoff | 全面而细致的R语言指南 |<img
 
 
 
-## 其他
+# 其他
 
 
 
